@@ -4,8 +4,9 @@
   {vsn, "1"},
   {registered, []},
   {applications, [
-                  kernel,
-                  stdlib
+                  kernel
+                  ,stdlib
+                  ,cowboy
                  ]},
   {mod, { cb_app, []}},
   {env, []}

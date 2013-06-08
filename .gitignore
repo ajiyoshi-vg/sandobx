@@ -2,3 +2,5 @@ rebar
 deps
 ebin
 .rebar
+dev
+erl_crash.dump
